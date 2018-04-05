@@ -1,3 +1,4 @@
 # Decode
 Decode - Digitales Entwerfen
-Python course
+
+Selection of some code used in the basic course for programming languages Python for Rhino and Processing.
