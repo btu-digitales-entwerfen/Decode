@@ -1,5 +1,5 @@
 <p align="center">
-<img src="TitleImage.jpg" align="middle" width=30%/>
+<img src="TitleImage.jpg" align="middle" width=50%/>
 </p> 
 
 ##### Language [EN](README.md) | [DE](README_DE.md) Sprache 
