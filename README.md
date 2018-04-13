@@ -1,3 +1,5 @@
+![alt text](TitleImage.jpg)
+
 # Decode
 Decode - Digitales Entwerfen
 
