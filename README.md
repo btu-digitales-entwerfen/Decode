@@ -1,5 +1,5 @@
 <p align="center">
-<img src="TitleImage.jpg" align="middle" alt="Drawing" style="width: 400px;"/>
+<img src="TitleImage.jpg" align="middle" alt="" width=50%"/>
 </p> 
 
 ##### Language [EN](README.md) | [DE](README_DE.md) Sprache
