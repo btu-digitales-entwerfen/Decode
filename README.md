@@ -1,29 +1,13 @@
-![alt text](TitleImage.jpg)
+<p align="center">
+<img src="TitleImage.jpg" align="middle" alt="Drawing" style="width: 30%;"/>
+</p> 
 
-# Decode
-Decode - Digitales Entwerfen
+##### Language [EN](README.md) | [DE](README_DE.md) Sprache
 
-Selection of some code used in the basic course for programming languages Python for Rhino and Processing.
+# 11790 | Decode - Digital Design
+This repository contains the code used in the basic course for Python and Processing.
 
-## Thema
-Das Modul beschäftigt sich mit digitaler Formfindung und der Rekonstruktion künstlerischer Werke mittels Software-Algorithmen. Es werden verschiedene Programmiermethoden vermittelt, mit welchen es möglich wird, eine 3D Skulptur zu erzeugen. Das Ziel des Moduls ist es, neben dem Erlernen von Programmiergrundlagen, auch die Heranführung an das breite Themenfeld der Gestaltung durch Code.
+## Course Brief
+The module deals with digital form finding and the reconstruction of artistic works using algorithms. During the course the participants learn various programming methods, for the purpose of 3d sculpture creation. In addition to the learning of programming basics, the goal of the course is to introduce the broad topic of design by code.
 
-Das Modul ist Fortsetzung von Decode 1 aus dem Wintersemester. Auch wenn Grundkenntnisse in Programmieren vom Vorteil sind, ist das Modul auch für Anfänger geeignet. Gearbeitet wird vor allem mit der Programmiersprache PYTHON im Programm Rhino 3D. In mehreren Kursen werden die Teilnehmer in der Lage sein, selbständig eigene interaktive Kreationen zu einem bestimmten Thema zu programmieren.
-
-## Voraussetzungen
-Die Installation von Rhino 3D (V.5) auf eigenem Computer ist Voraussetzung für die Teilnahme. Eine 90-tägige Testversion sowie eine Version für Mac stehen auf www.rhino3d.com zur Verfügung.
-
-## Ablauf
-CNC-Labor im Gebäude 15 / Sachsendorf.
-
-Der Gebäudeeingang befindet sich in der Nähe der Bushaltestelle Linie 16. Das CNC-Labor ist im Obergeschoss im Raum 238/239 gelegen
-
-Der Kurs findet abwechselnd zweisprachig jeden Donnerstag 13:45 - 17:00 statt. Jede A Woche ist der Kurs in Englisch.
-
-Wichtige Zwischentermine:
-
-- 05.04 - Einführung
-- 03.05 - Zwischenpräsentation Konzept
-- 31.05 - Zwischenpräsentation Entwurf
-- 26.06 - Endpräsentation
-
+Basic knowledge in programming is an advantage, but the module is suitable for absolute beginners. Work is done mainly with the programming language PYTHON in the program Rhino 3D. After several classes the participants will be able to independently program their own interactive creations on a specific topic.
