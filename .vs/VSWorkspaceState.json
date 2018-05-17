@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\grasshopper_python",
+    "\\grasshopper_python\\basic_exercises",
+    "\\rhino_python",
+    "\\rhino_python\\basic_exercises"
   ],
-  "SelectedNode": "\\README_DE.md",
   "PreviewInSolutionExplorer": false
 }
